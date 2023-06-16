@@ -1,0 +1,13 @@
+{
+	"ColoursURL": "https://epplussoftware.com/docs/5.0/api/OfficeOpenXml.Drawing.ePresetColor.html",
+	"Background": "PowderBlue",
+	"TestsInSrc": "CadetBlue",
+	"DisabledTestsInSrc": "Red",
+	"CommitTestsFound": "Blue",
+	"CommitAdds": "LimeGreen",
+	"CommitRemovals": "DarkRed",
+	"CommitsMissing": "Yellow",
+	"Adds": "LimeGreen",
+	"Deletes": "DarkRed",
+	"Modifications": "Yellow",
+}
